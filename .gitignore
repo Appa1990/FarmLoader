@@ -1,0 +1,14 @@
+.gradle/
+.gradle-user/
+build/
+run/
+runs/
+.idea/
+*.iml
+*.log
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+.env
+.env.*
+hs_err_pid*

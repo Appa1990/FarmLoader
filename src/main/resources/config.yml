@@ -1,0 +1,9 @@
+# Maximum registered loaders per player. Disabled loaders count as well.
+max-per-player: 2
+# Must match the name tag's name (case-insensitive).
+name-tag: FarmLoader
+# Chunk radius kept entity-ticking around each AFK point. 8 = 17 x 17 chunks.
+# Natural mob spawning additionally depends on simulation distance and server settings.
+chunk-radius: 8
+# Keep farms active even when no real player is online.
+run-when-empty: true

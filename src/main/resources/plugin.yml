@@ -1,0 +1,9 @@
+name: FarmLoader
+version: '${version}'
+main: xyz.mayahive.farmloader.FarmLoaderPlugin
+api-version: '26.3'
+description: Armorstand AFK farm loaders for Paper 26.3
+commands:
+  farmloader:
+    description: Show FarmLoader help and status
+    usage: /farmloader [list]
